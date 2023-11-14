@@ -1,0 +1,17 @@
+abbreviation: RM
+available: false
+classes: 1440
+colour: 103
+id: 20
+label: RECM
+longName: recyclable material
+name: Recyclable Material
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 6579
+sprite:
+  filename: cargoes/recyclable-material.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
