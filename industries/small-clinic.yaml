@@ -1,16 +1,17 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- PASS
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 102
 id: 32
 layout:
 - - - -1
-name: 'New industry #32'
-placement: anywhere
+name: Small Clinic
+placement: in-town
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
