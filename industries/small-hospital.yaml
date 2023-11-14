@@ -1,16 +1,17 @@
 available: false
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- PASS
 colour: 1
 fundCostMultiplier: 100
 id: 31
 layout:
 - - - -1
-name: 'New industry #31'
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+name: Small Hospital
+placement: in-town
+probabilityInGame: 6
+probabilityMapGen: 7
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
